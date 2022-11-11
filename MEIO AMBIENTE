@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	   <head>
+	   	    <meta charset="UTF-8">
+            <title>MEIO AMBIENTE</title>
+	   </head>
+	   <body style= "background: #B0E0E6">
+	   	 <center>
+	        <header>
+	   	        <h1 style="text-align: center; font-size: 50px; background: #B0E0E6"><strong>POLUIÇÃO</strong></h1>
+                   <ul>
+								<p style="font-size: 25px; text-align: center; background: #B0E0E6"><strong>CAUSAS:</strong></p>
+
+								<p style="font-size: 20px; text-align: center"><a href="https://www.google.com/search?q=fuma%C3%A7a+desenho&sxsrf=ALiCzsZyscHapbV4m0kgiDe7u1Y5z4zHWA:1667508032558&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjn7sK_75L7AhWTu5UCHQzgDX0Q_AUoAXoECAIQAw&biw=1366&bih=625&dpr=1">Fumaça</p>
+								<p style="font-size: 20px; text-align: center"><a href="https://www.google.com/search?q=lixo+desenho&sxsrf=ALiCzsZP6zT06MU90WCY1fqlVHdd43BQTQ:1667508269948&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjPgNyw8JL7AhV6pJUCHQ31C3EQ_AUoAXoECAIQAw&biw=1366&bih=625&dpr=1">Lixo</p>
+								<p style="font-size: 20px; text-align: center"><a href="https://www.google.com/search?q=industrias+desenho&sxsrf=ALiCzsZBSHNcqJAhOWtqbMbfqL0EBsJlkQ:1667508357709&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjDx8ja8JL7AhVgvJUCHVHcAEsQ_AUoAXoECAIQAw&biw=1366&bih=625&dpr=1">Industrias</p>
+								<p style="font-size: 20px; text-align: center"><a href="https://www.google.com/search?q=queimadas+desenho&tbm=isch&ved=2ahUKEwjM_8vb8JL7AhWUK7kGHaqaBAAQ2-cCegQIABAA&oq=queimadas+&gs_lcp=CgNpbWcQARgAMgQIABBDMgUIABCABDILCAAQgAQQsQMQgwEyBQgAEIAEMgQIABBDMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgjECc6BggAEAgQHjoHCCMQ6gIQJzoICAAQgAQQsQM6CAgAELEDEIMBOgcIABCxAxBDOgcIABCABBADUMgJWKMdYLMpaAFwAHgAgAG0AYgBxwuSAQQwLjExmAEAoAEBqgELZ3dzLXdpei1pbWewAQrAAQE&sclient=img&ei=hyhkY4ygNJTX5OUPqrUS&bih=625&biw=1366">Queimadas</p>
+								<p style="font-size: 20px; text-align: center"><a href="https://www.google.com/search?q=carros+soltando+fuma%C3%A7a+desenho&tbm=isch&ved=2ahUKEwjpndCT8ZL7AhXkOLkGHa3kBwIQ2-cCegQIABAA&oq=carros+fuma%C3%A7a&gs_lcp=CgNpbWcQARgCMgQIIxAnMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB5QAFgAYLEXaABwAHgAgAGPAYgBjwGSAQMwLjGYAQCqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=_ShkY6mrFuTx5OUPrcmfEA&bih=625&biw=1366">Carros</p>
+                    </ul>
+            </header>
+                <img src="930bde8042624d017119306ff8a8baa0.jpg"; style="width: 25%">
+                <p style="font-size: 45PX; text-align: center"><strong>VAMOS DEIXAR NOSSO PLANETA FELIZ</strong></p>
+          </center>
+        </body>
+</html>
